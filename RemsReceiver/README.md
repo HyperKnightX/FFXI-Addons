@@ -1,4 +1,4 @@
-# Rems Receiver v2.7
+# Rems Receiver v2.8
 
 A Windower 4 addon for retrieving Rem's Tales from **Monisette in Port Jeuno**.
 
@@ -285,7 +285,7 @@ The live HUD displays progress during automated jobs.
 Examples of HUD information include:
 
 
-Rems Receiver v2.7
+Rems Receiver v2.8
 ALL | sent
 Ch.6 | 6/10 | 89/173 received
 
