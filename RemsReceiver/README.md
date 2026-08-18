@@ -1,5 +1,7 @@
 # Rems Receiver v2.8
 
+Version 2.8 changes: No more text on startup/load
+
 A Windower 4 addon for retrieving Rem's Tales from **Monisette in Port Jeuno**.
 
 Rems Receiver supports:
