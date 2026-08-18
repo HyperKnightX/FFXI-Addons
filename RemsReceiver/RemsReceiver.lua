@@ -1,7 +1,7 @@
 --------------------------------------------------------------------
 -- Rems Receiver
 -- Windower 4 Addon
--- v2.7
+-- v2.8
 --
 -- Retrieval commands:
 --   //rr <chapter> <quantity>
@@ -43,7 +43,7 @@
 _addon = _addon or {}
 _addon.name     = 'RemsReceiver'
 _addon.author   = 'OpenAI / HyperKnightGaming'
-_addon.version  = '2.7'
+_addon.version  = '2.8'
 _addon.commands = {'rr', 'remsreceiver'}
 
 local packets = require('packets')
@@ -1714,6 +1714,4 @@ log('------------------------------------------------------------')
 log('Rems Receiver v' .. tostring(_addon.version) .. ' loaded.')
 log('Valid menus: 385 normal, 387 gear-traded')
 
-msg('Rems Receiver v' .. tostring(_addon.version) .. ' loaded.')
-msg('Debug privilege is locked unless RemsReceiverDebug is loaded.')
-msg('Use //rr help for commands.')
+
